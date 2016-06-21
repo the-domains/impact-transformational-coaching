@@ -1,14 +1,14 @@
-layout_spectrum: 0.5615118369460106
-typography_spectrum: 0.1370307127945125
+layout_spectrum: 0.6480655877385288
+typography_spectrum: 0.8356565944850445
 color:
-  brandStrength: 0.6958727047313005
-  lightness: 0.4262464754283428
-  saturation: 0.2808646997436881
-  rhythmicContrast: 0.901758833322674
+  brandStrength: 0.8717862556222826
+  lightness: 0.4304232900030911
+  saturation: 0.7110369671136141
+  rhythmicContrast: 0.9722303096204996
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: Impact Transformational Coaching

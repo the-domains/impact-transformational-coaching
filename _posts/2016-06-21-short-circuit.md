@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-21T23:55:46.493Z'
-datePublished: '2016-06-21T23:55:46.803Z'
+dateModified: '2016-06-21T23:55:49.173Z'
+datePublished: '2016-06-21T23:55:49.378Z'
 title: Short Circuit!
 author: []
 isBasedOnUrl: >-

@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-21T19:50:43.159Z'
-datePublished: '2016-06-21T19:55:45.140Z'
+dateModified: '2016-06-21T20:19:34.567Z'
+datePublished: '2016-06-21T20:20:13.354Z'
 title: Short Circuit!
 author: []
 isBasedOnUrl: >-
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be45156f8b2c9b96fa3dd4a511f9f91e/croprotate.jpg?cropheight=988&cropwidth=1495&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3a5ecc2a-821a-49bc-a5c6-14c1ccd64254.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0729c4c6-86ef-4597-bd9a-e17277a4c3a5.jpg)
 
 # Short Circuit!
 

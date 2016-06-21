@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-06-21T19:45:59.280Z'
-datePublished: '2016-06-21T19:46:47.188Z'
+dateModified: '2016-06-21T19:48:48.235Z'
+datePublished: '2016-06-21T19:48:48.902Z'
 title: Short Circuit
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a5ecc2a-821a-49bc-a5c6-14c1ccd64254.jpg
 sourcePath: _posts/2016-06-21-short-circuit.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
